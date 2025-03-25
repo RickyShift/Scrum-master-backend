@@ -31,7 +31,7 @@ CREATE USER your-username WITH SUPERUSER LOGIN PASSWORD 'yourpassword';
 \q
 exit
 ```
-### Go to `backend/src/main/resources/application-dev.properties` and fill its fields 
+### Go to `backend/src/main/resources/application.properties` and fill its fields 
 
 
 
