@@ -15,7 +15,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/userStory")
-@CrossOrigin(origins = "http://https://scrum-master-backend.onrender.com")
+@CrossOrigin(origins = "http://localhost:3000")
 public class UserStoryController {
 
     private final UserStoryService userStoryService;
